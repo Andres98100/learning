@@ -1,0 +1,12 @@
+[
+  {
+    "comida": 1.0,
+    "propina": 1.0,
+    "total_pagar": 1.01
+  },
+  {
+    "comida": 100.0,
+    "propina": 120.0,
+    "total_pagar": 220.0
+  }
+]
