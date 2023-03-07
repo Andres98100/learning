@@ -5,3 +5,4 @@ En: Exercices of the programming languages aiming to dominate
 
 authors
 by andres
+and Juanes
